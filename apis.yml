@@ -28,6 +28,8 @@ apis:
     description: >-
       The EnPro Industries API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/about-enpro
   - type: Website
     url: https://www.enproindustries.com
 maintainers:
